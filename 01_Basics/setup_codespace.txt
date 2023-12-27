@@ -1,0 +1,18 @@
+Step 1: Create a repo
+Step 2: Click on Code>Codespaces>Create Codespace on main
+After this Github will create a VS code instance for me 
+Now in order to install the nodejs on the VS code, do the 
+following things:
+    Step 1: Click on 3 horizontal line in left menu
+    Step 2: Click on View>Command Palette
+    Step 3: type "container",
+    Step 4: from the dropdown suggestions, click on the first
+    option i.e. "Add dev container configuration files..."
+    Step 5: Now type node and then click on "Show all Definitions"
+    Step 6: Now again type Node and then select "node.js & JavaScript"
+    Step 7: Select version(recommended one)
+    Step 8: Then if you want to install anyother things then search and add it
+    if not then click on Ok button.
+    After this it will add a code execution environment file in this 
+    virtual VS Code environment
+    Then click on Rebuild to apply all the changes.
