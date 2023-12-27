@@ -8,10 +8,11 @@ so no need to write this line*/
 work here */
 //alert(3+3)
 
-/*Types of data types
+/*Types of data types(based on how data is stored in memory and 
+    how data is accessed)
 Primitive Data types:
     1. number ==> 2**53 range
-    2. null ==> standalone value
+    2. null ==> standalone value(it means empty)
     3. bigint
     4. boolean
     5. string
@@ -19,7 +20,9 @@ Primitive Data types:
     7. undefined ==> value is not assigned yet
 
 Reference Data Type:
-    1. Object
+    1. Objects
+    2. Array
+    3. Functions
 */
 
 let num = 54
